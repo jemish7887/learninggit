@@ -1,2 +1,4 @@
 this is the txt file  
-this is another thing wwhich we would wreite 
+
+this is the second text 
+>>>>>>> lol
