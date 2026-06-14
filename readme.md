@@ -1,0 +1,1 @@
+this repo is just for practicing git concept it wont teach anything at all for the visitor this repo is done to learn advance concept of git like rebase relog merging solving merge conflict etc etc 
